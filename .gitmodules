@@ -13,3 +13,6 @@
 [submodule "Eulerian Magnification for BPM"]
 	path = Eulerian Magnification for BPM
 	url = https://github.com/AbdullahTabassam/BPM_Eulerian_Magnification_Computer_Vision
+[submodule "YOLO UK Birds Detection"]
+	path = YOLO UK Birds Detection
+	url = https://github.com/AbdullahTabassam/Yolo_Bird_detection
