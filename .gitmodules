@@ -16,3 +16,6 @@
 [submodule "YOLO UK Birds Detection"]
 	path = YOLO UK Birds Detection
 	url = https://github.com/AbdullahTabassam/Yolo_Bird_detection
+[submodule "Sign Language Detection"]
+	path = Sign Language Detection
+	url = https://github.com/AbdullahTabassam/Sign_language_Object_Detection
