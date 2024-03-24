@@ -1,3 +1,6 @@
 [submodule "In-Flight Birds Detection, Species Detection, and Counting"]
 	path = In-Flight Birds Detection, Species Detection, and Counting
 	url = https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_
+[submodule "Volume Control with Computer Vision"]
+	path = Volume Control with Computer Vision
+	url = https://github.com/AbdullahTabassam/Volume-Control-Using-Computer-Vision
