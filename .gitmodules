@@ -10,3 +10,6 @@
 [submodule "ORB Feature Mapping"]
 	path = ORB Feature Mapping
 	url = https://github.com/AbdullahTabassam/Feature_Mapping_ORB_Computer_Vision
+[submodule "Eulerian Magnification for BPM"]
+	path = Eulerian Magnification for BPM
+	url = https://github.com/AbdullahTabassam/BPM_Eulerian_Magnification_Computer_Vision
