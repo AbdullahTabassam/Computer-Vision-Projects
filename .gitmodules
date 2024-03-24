@@ -4,3 +4,6 @@
 [submodule "Volume Control with Computer Vision"]
 	path = Volume Control with Computer Vision
 	url = https://github.com/AbdullahTabassam/Volume-Control-Using-Computer-Vision
+[submodule "Lungs Tumor Segmentation"]
+	path = Lungs Tumor Segmentation
+	url = https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation_Computer_Vision
