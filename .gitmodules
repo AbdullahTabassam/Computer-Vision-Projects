@@ -19,3 +19,6 @@
 [submodule "Sign Language Detection"]
 	path = Sign Language Detection
 	url = https://github.com/AbdullahTabassam/Sign_language_Object_Detection
+[submodule "Tensorflow UK Birds Detection"]
+	path = Tensorflow UK Birds Detection
+	url = https://github.com/AbdullahTabassam/Custom-Object-Detection
