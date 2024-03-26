@@ -22,3 +22,6 @@
 [submodule "Tensorflow UK Birds Detection"]
 	path = Tensorflow UK Birds Detection
 	url = https://github.com/AbdullahTabassam/Custom-Object-Detection
+[submodule "3D Reconstruction"]
+	path = 3D Reconstruction
+	url = https://github.com/AbdullahTabassam/3D-Recontruction
