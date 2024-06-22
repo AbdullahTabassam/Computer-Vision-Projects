@@ -166,11 +166,7 @@ This project aims to develop an end-to-end solution for lung tumor detection usi
 - Ability to integrate machine learning models into web applications.
 - Knowledge of hyperparameter tuning for model optimization.
 
-**Author**: Abdullah Ikram Ullah Tabassam
 
-<a href="https://www.linkedin.com/in/abdullah-ikram-ullah-tabassam-1103b021b/" target="_blank" >Linkedin</a>
-
-Email: <a href="mailto:abdullahdar2017@gmail.com" >abdullahdar2017@gmail.com</a>
 
 [![Go to Lung Tumor Detection Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Lung-Tumor-Detection-using-Yolov8-Segmentation-Models-and-Flask-Web-Application-)
 
@@ -208,11 +204,6 @@ This project involves the development and deployment of an object detection mode
 - Knowledge of data preprocessing techniques for object detection.
 - Ability to evaluate model performance using appropriate metrics.
 
-**Author**: Abdullah Ikram Ullah Tabassam
-
-<a href="https://www.linkedin.com/in/abdullah-ikram-ullah-tabassam-1103b021b/" target="_blank" >Linkedin</a>
-
-Email: <a href="mailto:abdullahdar2017@gmail.com" >abdullahdar2017@gmail.com</a>
 
 [![Go to Object Detection Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Object-Detection-Model-for-Bird-Species-Identification)
 
@@ -233,9 +224,7 @@ This project is a continuation of a previous endeavor that utilized the TensorFl
 
 ### Demo
 
-### Video
-
-Check out our project in action in the video demo: [Video Demo](https://media.licdn.com/dms/image/D4D05AQHNh6ho3QT69Q/videocover-high/0/1692633680506?e=1719612000&v=beta&t=nmIfXSKzF8bGCjYnZcL-lNNjEF896-ObEhicp-VlsW4)
+![Demo_gif](https://github.com/AbdullahTabassam/Yolo_Bird_detection/blob/master/Detections_Birds.gif)
 
 
 ### Features
@@ -261,6 +250,9 @@ Check out our project in action in the video demo: [Video Demo](https://media.li
 - Experience in optimizing models for real-time applications.
 - Ability to perform comparative analysis of different models to demonstrate improvements.
 - Knowledge of data preprocessing and evaluation techniques for object detection.
+
+  [![Go to YOLO Object Detection Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Yolo_Bird_detection)
+  
 ---
 
 For any inquiries or collaboration opportunities, please feel free to contact me.
