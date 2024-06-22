@@ -21,9 +21,7 @@ Welcome to my Computer Vision Projects Repository. This repository contains a co
 Welcome to the repository for the In-flight Bird Species Detection and Counting project! This project, developed as part of an MSc thesis, focuses on utilizing object detection models for the categorization, species detection, and counting of birds. By leveraging computer vision techniques, this project aims to contribute to wildlife conservation and research efforts.
 
 #### Demo
-##### Video 
-Check out our project in action in the video demo: [Video Demo](https://www.linkedin.com/posts/abdullah-ikram-ullah-tabassam-1103b021b_computervision-birdconservation-innovationinscience-activity-7102575697251987456-6Z-r?utm_source=share&utm_medium=member_desktop)
-
+![Demo_gif](https://github.com/AbdullahTabassam/In-flight_Bird_Species_Detection_Counting_/blob/master/images/Birdtrackingandcounting.gif)
 ##### Images
 A few detection images are as follows:
 <div>
