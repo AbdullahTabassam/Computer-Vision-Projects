@@ -9,10 +9,10 @@ Welcome to my Computer Vision Projects Repository. This repository contains a co
 3. [Lung Tumor Detection using YOLOv8 Segmentation Models and Flask Web Application](https://github.com/AbdullahTabassam/Lungs_Tumor_Segmentation_Computer_Vision)
 4. [Object Detection Model for Bird Species Identification](https://github.com/AbdullahTabassam/Custom-Object-Detection)
 5. [UK Garden Birds Detection using YOLO v8 model](https://github.com/AbdullahTabassam/Yolo_Bird_detection/)
-6. [Project 6](#project-6)
-7. [Project 7](#project-7)
-8. [Project 8](#project-8)
-9. [Project 9](#project-9)
+6. [Hand Gesture Volume Control](https://github.com/AbdullahTabassam/Volume-Control-Using-Computer-Vision)
+7. [Object Detection Model for Sign Language Identification](https://github.com/AbdullahTabassam/Sign_language_Object_Detection)
+8. [ORB Feature Mapping](https://github.com/AbdullahTabassam/Feature_Mapping_ORB_Computer_Vision)
+9. [Eulerian Magnification for Heart Rate Measurement](https://github.com/AbdullahTabassam/Feature_Mapping_ORB_Computer_Vision)
 
 ---
 
@@ -249,8 +249,151 @@ This project is a continuation of a previous endeavor that utilized the TensorFl
 - Ability to perform comparative analysis of different models to demonstrate improvements.
 - Knowledge of data preprocessing and evaluation techniques for object detection.
 
-  [![Go to YOLO Object Detection Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Yolo_Bird_detection)
+[![Go to YOLO Object Detection Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Yolo_Bird_detection)
+ 
+
+### Project 6: Hand Gesture Volume Control
+
+#### Introduction
+
+This project implements a Python script for controlling computer volume using hand gestures detected via a webcam. It utilizes MediaPipe and OpenCV libraries for hand tracking and PyCaw library for volume control, specifically designed for Windows operating systems.
+
+#### Demo
+
+![Hand Gesture Volume Control](https://github.com/AbdullahTabassam/Volume-Control-Using-Computer-Vision/blob/master/handGesture.gif)
+
+#### Libraries Used
+
+- MediaPipe
+- OpenCV (cv2)
+- PyCaw
+- Python 3.x
+
+#### Features
+
+- **Real-time Hand Gesture Detection**: Tracks hand gestures using MediaPipe library from webcam feed.
+- **Volume Control**: Adjusts system volume based on detected hand gestures (thumb and index finger open/close).
+- **Cross-platform Compatibility**: Designed to work specifically on Windows OS due to PyCaw library dependency.
+- **User Interface**: Displays live webcam feed with overlaid hand gesture recognition results.
+- **Customization**: Allows customization of webcam index and other parameters for different setups.
+
+#### Skills Demonstrated
+
+- **Computer Vision**: Application of MediaPipe and OpenCV for real-time hand gesture recognition.
+- **Library Integration**: Integration of PyCaw for controlling system volume via Python script.
+- **User Interface Development**: Simple GUI development for visualizing hand gesture detection results.
+- **System Interaction**: Interaction with system-level controls (volume adjustment) via Python.
+- **Cross-platform Development**: Adaptation and limitations in Windows-specific libraries and functionality.
+
+[![Go to Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Volume-Control-Using-Computer-Vision)
+
+
+### Project 7: Object Detection Model for Sign Language Identification
+
+#### Introduction
+
+This project focuses on training a custom object detection model using the TensorFlow 2 Object Detection API to identify all 26 English alphabets in sign language gestures. The model is based on the Faster R-CNN algorithm with a ResNet101 backbone, enabling real-time detection and recognition of sign language gestures.
+
+#### Demo
+
+![Sign Language Detection](https://github.com/AbdullahTabassam/Sign_language_Object_Detection/blob/master/Screenshots/Detections.jpg)
+
+#### Libraries Used
+
+- TensorFlow 2
+- TensorFlow Object Detection API
+- OpenCV
+- NumPy
+
+#### Features
+
+- **Custom Object Detection**: Trains a model to detect 26 different sign language gestures corresponding to English alphabets.
+- **TensorFlow 2 Object Detection API**: Utilizes TensorFlow 2 for efficient model training and inference.
+- **Dataset Handling**: Processes datasets in COCO format, sourced from Roboflow, for training and evaluation.
+- **Performance Evaluation**: Computes metrics such as mAP (mean Average Precision) to assess detection accuracy.
+- **Inference**: Implements inference on unseen images to demonstrate real-world applicability.
+
+#### Skills Demonstrated
+
+- **TensorFlow 2**: Proficiency in using TensorFlow 2 for deep learning model development.
+- **Object Detection Algorithms**: Understanding and implementation of Faster R-CNN for object detection tasks.
+- **Dataset Handling**: Processing and utilizing datasets in COCO format for training custom models.
+- **Model Evaluation**: Metrics computation and evaluation techniques for object detection models.
+- **Transfer Learning**: Leveraging pre-trained models from TensorFlow 2 Model Zoo for efficient model training.
+
+
+[![Go to Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Sign_language_Object_Detection)
+
+
+
+### Project 8: ORB Feature Mapping Project
+
+#### Introduction
+
+This project demonstrates proficiency in computer vision techniques, specifically feature mapping, using the OpenCV library in Python. It employs the ORB (Oriented FAST and Rotated BRIEF) algorithm to detect and match distinctive features across images or video frames, suitable for applications like object detection and image retrieval.
+
+#### Demo
+
+
+<img src="https://miro.medium.com/v2/resize:fit:1358/0*5tH4g-DWevzcs_8Y.jpg" alt="Image">
+
+#### Libraries Used
+
+- OpenCV (cv2)
+- NumPy
+- Operating System (os) module
+
+#### Features
+
+- **Feature Detection**: Extracts key features using the ORB algorithm.
+- **Feature Matching**: Matches features across different images or frames.
+- **Real-time Object Identification**: Detects and labels objects in real-time webcam video.
+- **Modularity**: Easily extendable for additional features or algorithms.
+- **Robustness**: Ensures reliable feature detection across varying conditions.
+
+#### Skills Demonstrated
+
+- **OpenCV**: Proficiency in using OpenCV for computer vision tasks, specifically feature detection and matching.
+- **Algorithm Implementation**: Implementation of the ORB algorithm for feature extraction and matching.
+- **Real-time Applications**: Development of applications for real-time object detection and identification.
+- **Modular Programming**: Modular design for easy integration and extension of computer vision algorithms.
   
+[![Go to Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Feature_Mapping_ORB_Computer_Vision)
+
+
+### Project 9: Eulerian Magnification for Heart Rate Measurement
+
+#### Introduction
+
+This project implements Eulerian Magnification to amplify color variations in video frames, focusing on facial regions to measure heart rate non-invasively. Leveraging computer vision techniques and OpenCV, it detects subtle changes in skin color caused by blood flow for heart rate estimation.
+
+#### Demo
+
+No specific demo image provided; project focuses on algorithmic implementation and analysis.
+
+#### Libraries Used
+
+- OpenCV
+- NumPy
+- MediaPipe
+- CVZone (additional package)
+
+#### Features
+
+- **Face Recognition**: Utilizes MediaPipe for facial region extraction.
+- **Frequency-based Filtering**: Applies Gaussian and Laplacian pyramids for color variation analysis.
+- **Heart Rate Estimation**: Estimates heart rate from frequency analysis of facial color changes.
+- **Non-invasive Measurement**: Provides non-intrusive method for heart rate measurement using video data.
+
+#### Skills Demonstrated
+
+- **Computer Vision Techniques**: Application of Eulerian Magnification for subtle color variation amplification.
+- **Algorithm Implementation**: Implementation of frequency-based filtering using Gaussian and Laplacian pyramids.
+- **Biomedical Applications**: Application of computer vision in biomedical fields for heart rate estimation.
+- **Package Integration**: Integration and utilization of MediaPipe and CVZone for facial recognition and analysis.
+
+[![Go to Eulerian Magnification for Heart Rate Measurement Repository](https://img.shields.io/badge/Repository-Link-blue)](https://github.com/AbdullahTabassam/Feature_Mapping_ORB_Computer_Vision)
+
 ---
 
 For any inquiries or collaboration opportunities, please feel free to contact me.
